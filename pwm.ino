@@ -11,6 +11,7 @@ const int A15 =15;
 =======
 const int A14 =14;
 >>>>>>> master
+const int A16 =16;
 
 const int SOA = 10;
 
