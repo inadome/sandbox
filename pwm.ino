@@ -5,8 +5,12 @@ const int A9 = 9;
 const int A10 =10;
 const int A11 =11;
 const int A12 =12;
+<<<<<<< HEAD
 const int A13 =13;
 const int A15 =15;
+=======
+const int A14 =14;
+>>>>>>> master
 
 const int SOA = 10;
 
