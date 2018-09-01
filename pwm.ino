@@ -14,6 +14,7 @@ const int A14 =14;
 const int A16 =16;
 const int A17 =17;
 const int A18 =18;
+const int A19 =19;
 
 const int B1 =1;
 const int B2 =2;
