@@ -13,6 +13,7 @@ const int A14 =14;
 >>>>>>> master
 
 const int B1 =1;
+const int B2 =2;
 
 const int SOA = 10;
 
