@@ -12,6 +12,8 @@ const int A15 =15;
 const int A14 =14;
 >>>>>>> master
 
+const int B1 =1;
+
 const int SOA = 10;
 
 const float V_OUT = 2;
